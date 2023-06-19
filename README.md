@@ -1,0 +1,2 @@
+# majestic
+Wordpress base 
